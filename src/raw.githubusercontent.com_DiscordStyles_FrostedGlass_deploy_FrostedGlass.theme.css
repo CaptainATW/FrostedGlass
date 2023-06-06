@@ -17,7 +17,7 @@
   /*
    * Background image variables
    */
-  --background-image: url("https://previews.dropbox.com/p/thumb/AB7GYJV8R1F1wsGX2dVDN2f3NM0aqOb6S0eTa1Ov_ubPPvS8mwXouKNwog4B5YPfLK-wFB5KLbWuaDEVsMYO4vQOxXoLl8AIjJg_pc3HAbuukvHH8eBHCApVqrY4C36XHKCpPagNW6Zuim4DFHanKAUrvN-GRthufPUen8nIj9qPX45f-ko62riFM2Y82Im2Mc1YihzT8jt5K9E7T19grSx5KUwdPWRocacnUawbReawytDpgGeJ9aMQPu0Oi4Y6BKOsR-rWJmoThfja1wvQiDuHyyTbJhWXDEo9CXcpHHeRCOtu-Mfbp_nz0asNZTJMx-NjPaR_ZOr4SWOgxzg1Ke8H54rXIFm8B65DIVhCYc-vUPU7UUHe_O15CEN8rV7J61kq5Mv0gRKKOg47UjoJABfRy5uvmroSQo4yF60acQX3Wb_MRTDuvtx2KeWu96od_rE/p.jpeg"); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image: url("https://i.ibb.co/RSq5zZK/yournamewallpaper.png"); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-image-blur: 5px; /* Blur intensity of --background-image | Must end in px | DEFAULT: 5px */
   --background-image-size: cover; /* Size of the background image | DEFAUT: cover | OPTIONS: cover, contain */
   --background-image-position: center; /* Position of background image | DEAFULT: center | OPTIONS: top, right, bottom, left, center */
